@@ -6,7 +6,7 @@ application up and running.
 Things you may want to cover:
 
 * Ruby version
-
+　Ruby 2.6.5
 * System dependencies
 
 * Configuration
@@ -48,6 +48,9 @@ Things you may want to cover:
 投稿機能、画像投稿
 カテゴリー機能
 コメント機能
+
+## 利用方法
+東京に（例）に
 
 ## テスト
 単体テスト(model)
