@@ -22,6 +22,40 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+## 概要
+
+無計画旅行(友達含め本人)や何もすることない休日のぷらっと過ごす日に使える新しい発見になる
+日常型トリップbookのようなアプリ
+
+## URL
+ https://maphoto.herokuapp.com/
+
+## 使用技術
+ Ruby 2.6.5
+ rails 6.0.0
+ mysql2 0.4.4
+ puma
+ sass-rails
+ webpacker
+ turbolinks
+ jbuilder
+ rubocop
+ devise
+
+## 機能一覧
+
+ユーザー登録、ログイン(devise)
+投稿機能、画像投稿
+カテゴリー機能
+コメント機能
+
+## テスト
+単体テスト(model)
+
+
+
+
+
 
 ## users テーブル
 
