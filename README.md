@@ -69,6 +69,10 @@ image
 
 ## 実装した機能についての画像やGIFおよびその説明 / 実装予定の機能 / ローカルでの動作方法
 未完成
+
+## ER図
+img width="656" alt="スクリーンショット 2021-04-15 午後3 13 59" src="https://user-images.githubusercontent.com/79432973/114823138-0e2cc080-9dfe-11eb-91bd-930402028bd3.png">
+
 ## テスト
 単体テスト(model)
 
